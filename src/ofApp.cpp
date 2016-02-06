@@ -41,14 +41,14 @@ void ofApp::setup(){
        // RunSingleCamera( guid );
     }
 	
-	error = cam.Connect(&guid);
+    error = cam.Connect(&guid);
     if (error != PGRERROR_OK)
     {
         PrintError( error );
        
     }
 
-	 CameraInfo camInfo;
+    CameraInfo camInfo;
     error = cam.GetCameraInfo(&camInfo);
     if (error != PGRERROR_OK)
     {
@@ -61,7 +61,12 @@ void ofApp::setup(){
     {
         PrintError( error );
         
-    }
+    
+
+	}
+	error = cam.StopCapture();
+
+	error = cam.StartCapture();
 
 	
 }
@@ -73,9 +78,7 @@ void ofApp::update(){
         if (error != PGRERROR_OK)
         {
             PrintError( error );
-           
-        }	
-
+        }
 	grayImage.setFromPixels(rawImage.GetData(), 808, 608, OF_IMAGE_GRAYSCALE);
 
 }

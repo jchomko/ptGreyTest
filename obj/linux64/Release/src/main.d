@@ -1,163 +1,168 @@
-obj/linux64/Release/src/main.o: \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/apps/myApps/emptyExample/src/main.cpp \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/ofMain.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofConstants.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/tess2/include/tesselator.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofFileUtils.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofLog.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofTypes.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofColor.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofMath.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofPoint.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofVec3f.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofVec2f.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofVec4f.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofSystemUtils.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofURLFileLoader.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/events/ofEvents.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/events/ofEventUtils.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/events/ofEvent.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofTimer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofFpsCounter.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofUtils.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/utf8cpp/include/utf8.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/utf8cpp/include/utf8/checked.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/utf8cpp/include/utf8/core.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/utf8cpp/include/utf8/unchecked.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofThread.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/AtomicCounter.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Foundation.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Config.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Platform.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Platform_POSIX.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Alignment.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Bugcheck.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Types.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Mutex.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Exception.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/ScopedLock.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Mutex_POSIX.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Thread.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Event.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Event_POSIX.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Thread_POSIX.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Runnable.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SignalHandler.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/RefCountedObject.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/AutoPtr.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SharedPtr.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofThreadChannel.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofBaseTypes.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofRectangle.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofMatrix4x4.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofQuaternion.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/ofMesh.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofGLUtils.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofPixels.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofXml.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofParameter.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofParameterGroup.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Document.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XML.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/AbstractNode.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Node.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/EventTarget.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DOMObject.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XMLString.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/NamespaceSupport.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/MutationEvent.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Event.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DocumentEvent.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Element.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/Name.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/NamePool.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/AutoReleasePool.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DocumentFragment.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DOMParser.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/SAXParser.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/XMLReader.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/ParserEngine.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/expat.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/expat_external.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XMLStream.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/Locator.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/TextEncoding.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DOMException.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XMLException.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/SAXException.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XMLWriter.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/ContentHandler.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/LexicalHandler.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/DTDHandler.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/StreamConverter.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/UnbufferedStreamBuf.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/StreamUtil.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DOMWriter.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Attr.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Text.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/CharacterData.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/NodeIterator.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/NodeFilter.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/NamedNodeMap.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/ChildNodesList.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/NodeList.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofVectorMath.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofMatrix3x3.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/communication/ofSerial.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/communication/ofArduino.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofFbo.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofTexture.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofVboMesh.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofVbo.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofGLUtils.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofBufferObject.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofGLRenderer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofPolyline.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/of3dGraphics.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/of3dPrimitives.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/ofNode.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/of3dUtils.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofAppRunner.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofWindowSettings.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofMainLoop.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofAppBaseWindow.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofBaseApp.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofBitmapFont.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofMatrixStack.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofGraphics.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofPath.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofTessellator.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofLight.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofMaterial.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofShader.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofCairoRenderer.h \
+obj/linux64/Release/src/main.o: src/main.cpp \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/ofMain.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofConstants.h \
+ /root/of_v0.8.3_linux64_release/libs/tess2/include/tesselator.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofFileUtils.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/File.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Foundation.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Config.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Platform.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Platform_POSIX.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Bugcheck.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Types.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Timestamp.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/File_UNIX.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofLog.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofTypes.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofColor.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofMath.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofPoint.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofVec3f.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofVec2f.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofVec4f.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Mutex.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Exception.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ScopedLock.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Mutex_POSIX.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofSystemUtils.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofThread.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AtomicCounter.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Thread.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Thread_POSIX.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Runnable.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SignalHandler.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Event.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Event_POSIX.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/RefCountedObject.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AutoPtr.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofURLFileLoader.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/events/ofEvents.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/events/ofEventUtils.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/PriorityEvent.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AbstractEvent.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SingletonHolder.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SharedPtr.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ActiveResult.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ActiveMethod.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ActiveRunnable.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ActiveStarter.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ThreadPool.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/PriorityStrategy.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/NotificationStrategy.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AbstractPriorityDelegate.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AbstractDelegate.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/PriorityDelegate.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/PriorityExpire.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/FunctionPriorityDelegate.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/events/ofDelegate.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Condition.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ScopedUnlock.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofUtils.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Path.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofBaseTypes.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofRectangle.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/ofMesh.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofGLUtils.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofPixels.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofMatrix4x4.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofQuaternion.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofXml.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Document.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XML.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/AbstractNode.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Node.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/EventTarget.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DOMObject.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XMLString.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/NamespaceSupport.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/MutationEvent.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Event.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DocumentEvent.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Element.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/Name.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/NamePool.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AutoReleasePool.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DocumentFragment.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DOMParser.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/SAXParser.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/XMLReader.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/ParserEngine.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/expat.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/expat_external.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XMLStream.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/Locator.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/TextEncoding.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DOMException.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XMLException.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/SAXException.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XMLWriter.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/ContentHandler.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/LexicalHandler.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/DTDHandler.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/StreamConverter.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/UnbufferedStreamBuf.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/StreamUtil.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DOMWriter.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Attr.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Text.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/CharacterData.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/NodeIterator.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/NodeFilter.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/NamedNodeMap.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/ChildNodesList.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/NodeList.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofParameter.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofParameterGroup.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Any.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofVectorMath.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofMatrix3x3.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/communication/ofSerial.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/communication/ofArduino.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofFbo.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofTexture.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofVboMesh.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofVbo.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofGLUtils.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofGLRenderer.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofPolyline.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofGraphics.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofMatrixStack.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofLight.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/ofNode.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/of3dUtils.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/of3dGraphics.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/of3dPrimitives.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofMaterial.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofShader.h \
+ /root/of_v0.8.3_linux64_release/libs/poco/include/Poco/RegularExpression.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/app/ofAppBaseWindow.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofCairoRenderer.h \
  /usr/include/cairo/cairo-features.h /usr/include/cairo/cairo-pdf.h \
  /usr/include/cairo/cairo.h /usr/include/cairo/cairo-version.h \
  /usr/include/cairo/cairo-features.h \
  /usr/include/cairo/cairo-deprecated.h /usr/include/cairo/cairo-svg.h \
  /usr/include/cairo/cairo.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofImage.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofRendererCollection.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofTrueTypeFont.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofAppGLFWWindow.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/glfw/include/GLFW/glfw3.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofAppGlutWindow.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofSoundStream.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofBaseSoundStream.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofSoundBuffer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofSoundPlayer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofOpenALSoundPlayer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/kiss/include/kiss_fft.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/kiss/include/kiss_fftr.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/kiss/include/kiss_fft.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofSoundBuffer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofVideoGrabber.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofGstVideoGrabber.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofGstUtils.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofPath.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofTessellator.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofImage.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofRendererCollection.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofTrueTypeFont.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/app/ofBaseApp.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/app/ofAppRunner.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofSoundStream.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofBaseSoundStream.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofSoundPlayer.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofOpenALSoundPlayer.h \
+ /root/of_v0.8.3_linux64_release/libs/kiss/include/kiss_fft.h \
+ /root/of_v0.8.3_linux64_release/libs/kiss/include/kiss_fftr.h \
+ /root/of_v0.8.3_linux64_release/libs/kiss/include/kiss_fft.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofVideoGrabber.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofGstVideoGrabber.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofGstUtils.h \
  /usr/include/gstreamer-1.0/gst/gst.h /usr/include/glib-2.0/glib.h \
  /usr/include/glib-2.0/glib/galloca.h /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h \
@@ -301,315 +306,304 @@ obj/linux64/Release/src/main.o: \
  /usr/include/gstreamer-1.0/gst/gstutils.h \
  /usr/include/gstreamer-1.0/gst/gstparse.h \
  /usr/include/gstreamer-1.0/gst/gstcompat.h \
- /usr/include/gstreamer-1.0/gst/video/video.h \
- /usr/include/gstreamer-1.0/gst/video/video-format.h \
- /usr/include/gstreamer-1.0/gst/video/video-enumtypes.h \
- /usr/include/gstreamer-1.0/gst/video/video-chroma.h \
- /usr/include/gstreamer-1.0/gst/video/video-color.h \
- /usr/include/gstreamer-1.0/gst/video/video-info.h \
- /usr/include/gstreamer-1.0/gst/video/video-frame.h \
- /usr/include/gstreamer-1.0/gst/video/colorbalancechannel.h \
- /usr/include/gstreamer-1.0/gst/video/colorbalance.h \
- /usr/include/gstreamer-1.0/gst/video/gstvideodecoder.h \
- /usr/include/gstreamer-1.0/gst/base/gstadapter.h \
- /usr/include/gstreamer-1.0/gst/video/gstvideoutils.h \
- /usr/include/gstreamer-1.0/gst/video/gstvideoencoder.h \
- /usr/include/gstreamer-1.0/gst/video/gstvideofilter.h \
- /usr/include/gstreamer-1.0/gst/base/gstbasetransform.h \
- /usr/include/gstreamer-1.0/gst/video/gstvideometa.h \
- /usr/include/gstreamer-1.0/gst/video/gstvideopool.h \
- /usr/include/gstreamer-1.0/gst/video/gstvideosink.h \
- /usr/include/gstreamer-1.0/gst/base/gstbasesink.h \
- /usr/include/gstreamer-1.0/gst/video/navigation.h \
- /usr/include/gstreamer-1.0/gst/video/video-blend.h \
- /usr/include/gstreamer-1.0/gst/video/video-event.h \
- /usr/include/gstreamer-1.0/gst/video/videoorientation.h \
- /usr/include/gstreamer-1.0/gst/video/video-overlay-composition.h \
- /usr/include/gstreamer-1.0/gst/video/videooverlay.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofVideoPlayer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofGstVideoPlayer.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/ofCamera.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/ofEasyCam.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/apps/myApps/emptyExample/src/ofApp.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/FlyCapture2.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/FlyCapture2Platform.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/FlyCapture2Defs.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/Error.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/BusManager.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/Camera.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/CameraBase.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/GigECamera.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/Image.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/Utilities.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/AVIRecorder.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/TopologyNode.h \
- /home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/ImageStatistics.h
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofVideoPlayer.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofGstVideoPlayer.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/ofCamera.h \
+ /root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/ofEasyCam.h \
+ src/ofApp.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/FlyCapture2.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/FlyCapture2Platform.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/FlyCapture2Defs.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/Error.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/BusManager.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/Camera.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/CameraBase.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/GigECamera.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/Image.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/Utilities.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/AVIRecorder.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/TopologyNode.h \
+ /root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/ImageStatistics.h
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/ofMain.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/ofMain.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofConstants.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofConstants.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/tess2/include/tesselator.h:
+/root/of_v0.8.3_linux64_release/libs/tess2/include/tesselator.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofFileUtils.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofFileUtils.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofLog.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/File.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofTypes.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Foundation.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofColor.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Config.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofMath.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Platform.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofPoint.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Platform_POSIX.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofVec3f.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Bugcheck.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofVec2f.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Types.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofVec4f.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Timestamp.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofSystemUtils.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/File_UNIX.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofURLFileLoader.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofLog.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/events/ofEvents.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofTypes.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/events/ofEventUtils.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofColor.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/events/ofEvent.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofMath.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofTimer.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofPoint.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofFpsCounter.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofVec3f.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofUtils.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofVec2f.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/utf8cpp/include/utf8.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofVec4f.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/utf8cpp/include/utf8/checked.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Mutex.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/utf8cpp/include/utf8/core.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Exception.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/utf8cpp/include/utf8/unchecked.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ScopedLock.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofThread.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Mutex_POSIX.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/AtomicCounter.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofSystemUtils.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Foundation.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofThread.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Config.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AtomicCounter.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Platform.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Thread.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Platform_POSIX.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Thread_POSIX.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Alignment.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Runnable.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Bugcheck.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SignalHandler.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Types.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Event.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Mutex.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Event_POSIX.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Exception.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/RefCountedObject.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/ScopedLock.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AutoPtr.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Mutex_POSIX.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofURLFileLoader.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Thread.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/events/ofEvents.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Event.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/events/ofEventUtils.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Event_POSIX.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/PriorityEvent.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Thread_POSIX.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AbstractEvent.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/Runnable.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SingletonHolder.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SignalHandler.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SharedPtr.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/RefCountedObject.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ActiveResult.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/AutoPtr.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ActiveMethod.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SharedPtr.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ActiveRunnable.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofThreadChannel.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ActiveStarter.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofBaseTypes.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ThreadPool.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofRectangle.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/PriorityStrategy.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofMatrix4x4.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/NotificationStrategy.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofQuaternion.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AbstractPriorityDelegate.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/ofMesh.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AbstractDelegate.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofGLUtils.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/PriorityDelegate.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofPixels.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/PriorityExpire.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofXml.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/FunctionPriorityDelegate.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofParameter.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/events/ofDelegate.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/types/ofParameterGroup.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Condition.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Document.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/ScopedUnlock.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XML.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofUtils.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Path.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/AbstractNode.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofBaseTypes.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Node.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofRectangle.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/EventTarget.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/ofMesh.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DOMObject.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofGLUtils.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XMLString.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofPixels.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/NamespaceSupport.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofMatrix4x4.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/MutationEvent.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofQuaternion.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Event.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofXml.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DocumentEvent.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Document.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Element.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XML.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/Name.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/NamePool.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/AbstractNode.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/AutoReleasePool.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Node.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DocumentFragment.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/EventTarget.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DOMParser.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DOMObject.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/SAXParser.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XMLString.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/XMLReader.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/NamespaceSupport.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/ParserEngine.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/MutationEvent.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/expat.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Event.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/expat_external.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DocumentEvent.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XMLStream.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Element.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/Locator.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/Name.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/TextEncoding.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/NamePool.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DOMException.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/AutoReleasePool.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XMLException.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DocumentFragment.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/SAXException.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DOMParser.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/XML/XMLWriter.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/SAXParser.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/ContentHandler.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/XMLReader.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/LexicalHandler.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/ParserEngine.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/SAX/DTDHandler.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/expat.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/StreamConverter.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/expat_external.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/UnbufferedStreamBuf.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XMLStream.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/StreamUtil.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/Locator.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/DOMWriter.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/TextEncoding.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Attr.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DOMException.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/Text.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XMLException.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/CharacterData.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/SAXException.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/NodeIterator.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/XML/XMLWriter.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/NodeFilter.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/ContentHandler.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/NamedNodeMap.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/LexicalHandler.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/ChildNodesList.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/SAX/DTDHandler.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/poco/include/Poco/DOM/NodeList.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/StreamConverter.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofVectorMath.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/UnbufferedStreamBuf.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/math/ofMatrix3x3.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/StreamUtil.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/communication/ofSerial.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/DOMWriter.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/communication/ofArduino.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Attr.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofFbo.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/Text.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofTexture.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/CharacterData.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofVboMesh.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/NodeIterator.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofVbo.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/NodeFilter.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofGLUtils.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/NamedNodeMap.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofBufferObject.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/ChildNodesList.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofGLRenderer.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/DOM/NodeList.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofPolyline.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofParameter.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/of3dGraphics.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/types/ofParameterGroup.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/of3dPrimitives.h:
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/Any.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/ofNode.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofVectorMath.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/of3dUtils.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/math/ofMatrix3x3.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofAppRunner.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/communication/ofSerial.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofWindowSettings.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/communication/ofArduino.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofMainLoop.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofFbo.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofAppBaseWindow.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofTexture.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofBaseApp.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofVboMesh.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofBitmapFont.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofVbo.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/utils/ofMatrixStack.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofGLUtils.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofGraphics.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofGLRenderer.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofPath.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofPolyline.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofTessellator.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofGraphics.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofLight.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/utils/ofMatrixStack.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofMaterial.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofLight.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofShader.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/ofNode.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/of3dUtils.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofCairoRenderer.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/of3dGraphics.h:
+
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/of3dPrimitives.h:
+
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofMaterial.h:
+
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofShader.h:
+
+/root/of_v0.8.3_linux64_release/libs/poco/include/Poco/RegularExpression.h:
+
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/app/ofAppBaseWindow.h:
+
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h:
+
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofCairoRenderer.h:
 
 /usr/include/cairo/cairo-features.h:
 
@@ -627,45 +621,43 @@ obj/linux64/Release/src/main.o: \
 
 /usr/include/cairo/cairo.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofImage.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofPath.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofRendererCollection.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofTessellator.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/graphics/ofTrueTypeFont.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofImage.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofAppGLFWWindow.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofRendererCollection.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/glfw/include/GLFW/glfw3.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/graphics/ofTrueTypeFont.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/app/ofAppGlutWindow.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/app/ofBaseApp.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofSoundStream.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/app/ofAppRunner.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofBaseSoundStream.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofSoundStream.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofBaseSoundStream.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofSoundBuffer.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofSoundPlayer.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofSoundPlayer.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofOpenALSoundPlayer.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/sound/ofOpenALSoundPlayer.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/kiss/include/kiss_fft.h:
+/root/of_v0.8.3_linux64_release/libs/kiss/include/kiss_fft.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/kiss/include/kiss_fftr.h:
+/root/of_v0.8.3_linux64_release/libs/kiss/include/kiss_fftr.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/kiss/include/kiss_fft.h:
+/root/of_v0.8.3_linux64_release/libs/kiss/include/kiss_fft.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/sound/ofSoundBuffer.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofVideoGrabber.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofVideoGrabber.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofGstVideoGrabber.h:
 
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofGstVideoGrabber.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofGstUtils.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofGstUtils.h:
 
 /usr/include/gstreamer-1.0/gst/gst.h:
 
@@ -979,88 +971,38 @@ obj/linux64/Release/src/main.o: \
 
 /usr/include/gstreamer-1.0/gst/gstcompat.h:
 
-/usr/include/gstreamer-1.0/gst/video/video.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofVideoPlayer.h:
 
-/usr/include/gstreamer-1.0/gst/video/video-format.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/video/ofGstVideoPlayer.h:
 
-/usr/include/gstreamer-1.0/gst/video/video-enumtypes.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/ofCamera.h:
 
-/usr/include/gstreamer-1.0/gst/video/video-chroma.h:
+/root/of_v0.8.3_linux64_release/libs/openFrameworks/3d/ofEasyCam.h:
 
-/usr/include/gstreamer-1.0/gst/video/video-color.h:
+src/ofApp.h:
 
-/usr/include/gstreamer-1.0/gst/video/video-info.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/FlyCapture2.h:
 
-/usr/include/gstreamer-1.0/gst/video/video-frame.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/FlyCapture2Platform.h:
 
-/usr/include/gstreamer-1.0/gst/video/colorbalancechannel.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/FlyCapture2Defs.h:
 
-/usr/include/gstreamer-1.0/gst/video/colorbalance.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/Error.h:
 
-/usr/include/gstreamer-1.0/gst/video/gstvideodecoder.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/BusManager.h:
 
-/usr/include/gstreamer-1.0/gst/base/gstadapter.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/Camera.h:
 
-/usr/include/gstreamer-1.0/gst/video/gstvideoutils.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/CameraBase.h:
 
-/usr/include/gstreamer-1.0/gst/video/gstvideoencoder.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/GigECamera.h:
 
-/usr/include/gstreamer-1.0/gst/video/gstvideofilter.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/Image.h:
 
-/usr/include/gstreamer-1.0/gst/base/gstbasetransform.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/Utilities.h:
 
-/usr/include/gstreamer-1.0/gst/video/gstvideometa.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/AVIRecorder.h:
 
-/usr/include/gstreamer-1.0/gst/video/gstvideopool.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/TopologyNode.h:
 
-/usr/include/gstreamer-1.0/gst/video/gstvideosink.h:
-
-/usr/include/gstreamer-1.0/gst/base/gstbasesink.h:
-
-/usr/include/gstreamer-1.0/gst/video/navigation.h:
-
-/usr/include/gstreamer-1.0/gst/video/video-blend.h:
-
-/usr/include/gstreamer-1.0/gst/video/video-event.h:
-
-/usr/include/gstreamer-1.0/gst/video/videoorientation.h:
-
-/usr/include/gstreamer-1.0/gst/video/video-overlay-composition.h:
-
-/usr/include/gstreamer-1.0/gst/video/videooverlay.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofVideoPlayer.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/video/ofGstVideoPlayer.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/ofCamera.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/libs/openFrameworks/3d/ofEasyCam.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/apps/myApps/emptyExample/src/ofApp.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/FlyCapture2.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/FlyCapture2Platform.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/FlyCapture2Defs.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/Error.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/BusManager.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/Camera.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/CameraBase.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/GigECamera.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/Image.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/Utilities.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/AVIRecorder.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/TopologyNode.h:
-
-/home/jonathan-chomko/Documents/of_v0.9.0_linux64_release/addons/ofxFlyCapture/src/ImageStatistics.h:
+/root/of_v0.8.3_linux64_release/addons/ofxFlyCapture/src/ImageStatistics.h:
